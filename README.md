@@ -251,7 +251,7 @@ Machine Learning Ready Dataset
 
 ## **Fuzail Khan**
 
-**Artificial Intelligence & Machine Learning Graduate**
+**CSE Graduate**
 
 ### Skills
 
